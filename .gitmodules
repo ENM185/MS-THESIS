@@ -4,3 +4,6 @@
 [submodule "MS-THESIS-PROPOSAL"]
 	path = MS-THESIS-PROPOSAL
 	url = https://github.com/ENM185/MS-THESIS-PROPOSAL
+[submodule "MS-THESIS-PAPER"]
+	path = MS-THESIS-PAPER
+	url = https://github.com/ENM185/MS-THESIS-PAPER
