@@ -2,5 +2,5 @@
 	path = MS-THESIS-LIT-REVIEW
 	url = https://github.com/ENM185/MS-THESIS-LIT-REVIEW.git
 [submodule "MS-THESIS-PROPOSAL"]
-	path = MS-THESIS-PAPER
+	path = MS-THESIS-PROPOSAL
 	url = https://github.com/ENM185/MS-THESIS-PROPOSAL
